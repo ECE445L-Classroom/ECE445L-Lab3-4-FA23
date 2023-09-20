@@ -6,14 +6,12 @@ Lab 3 and 4 Template.
 
 [Lab 4 README](Lab04D.docx)
 
-[Blynk README](Blynk.md)
 
 ## HW
 
 The hw folder should contain your schematic and board files for your PCB or
 circuits. In labs 3-11, you will be creating schematics for your circuit
-in EAGLE. A setup tutorial can be found
-[here](https://www.shawnvictor.net/autodesk-eagle.html).
+in KiCAD.
 
 ## SW
 
